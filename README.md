@@ -28,3 +28,7 @@ Actualmente me encuentro trabajando de Freelance para negocios y empresas de mi 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-ibar-funes-ortiz-54ba41217/)
+
+## Contacto
+🔔edgar.funes2001@gmail.com<br />
+🔔+54 9 261 618-7293
