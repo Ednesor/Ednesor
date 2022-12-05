@@ -2,7 +2,7 @@
 # Hola, Soy Edgardo Funes! 👋
 
 
-![Logo]()
+![Logo](./banner.gif)
 
 
 ## 🚀 Sobre mi
@@ -21,5 +21,4 @@ Constantemente ando buscando nuevas tecnologías para aprender e implementar, ap
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-ibar-funes-ortiz-54ba41217/)
