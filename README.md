@@ -28,7 +28,11 @@ Actualmente me encuentro trabajando de Freelance para negocios y empresas de mi 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-ibar-funes-ortiz-54ba41217/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ednesor.vercel.app)
 
-## Contacto
+## 💬 Contacto
 🔔edgar.funes2001@gmail.com<br />
 🔔+54 9 261 618-7293
+
+## 🤟 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ednesor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
