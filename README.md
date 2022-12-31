@@ -13,17 +13,19 @@ Constantemente ando buscando nuevas tecnologías para aprender e implementar, ap
 Comence en secundaria programando con Arduino, mi proyecto mas grande fue el de un auto controlado por bluetooth, luego automaticé el riego de mi jardín. Una vez terminada la secundaria, decidí comenzar la tecnicatura en programación en la UTN, donde obtuve una base solida de lo que era la programación en general. Por cuestiones personales me ví obligado a abandonar la carrera apenas finalizado el primer año. Por lo que decidí empezar el bootcamp de Henry, donde aprendi muchas tecnologías, algunas me enseñaron ellos, otras las aprendí por mi cuenta.<br />
 Gracias a todo esto puedo concretar dos proyectos, uno individual y otro grupal. Todavia me queda mucho por recorrer en este fantastico mundo, aun asi mis ganas de trabajar y de aprender son enormes y dia a dia voy aprendiendo e implementando lo aprendido.<br />
 
-Actualmente me encuentro trabajando de Freelance para negocios y empresas de mi ciudad
 
 
 
 ## 🔵 Tech Stack
 
-**Lenguajes:** Javascript, JAVA, C++, Python
+**Lenguajes**<br />
+[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,py)](https://skillicons.dev)
 
-**Client:** React, Redux, TailwindCSS, Material-UI, Bootstrap
+**Client** <br />
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
 
-**Server:** Node, Express, Sequelize, MongoDB, Mongoose, SQL, NoSQL
+**Server** <br />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,)](https://skillicons.dev)
 
 
 ## 🔗 Links
