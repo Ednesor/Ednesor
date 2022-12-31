@@ -25,7 +25,7 @@ Gracias a todo esto puedo concretar dos proyectos, uno individual y otro grupal.
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
 
 **Server** <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
 
 
 ## 🔗 Links
