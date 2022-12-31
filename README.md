@@ -37,4 +37,5 @@ Gracias a todo esto puedo concretar dos proyectos, uno individual y otro grupal.
 🔔+54 9 261 618-7293
 
 ## 🤟 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ednesor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ednesor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ednesor&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
