@@ -6,12 +6,9 @@
 
 
 ## 🚀 Sobre mi
-Soy FullStack Developer especializado en Front-End. Manejo tecnologías como Javascript, React, CSS, Redux, Material-UI, Tailwind, entre otros.
-Me gusta trabajar en equipo, me complemento con el grupo para realizar un trabajo óptimo y prolijo.
-Constantemente ando buscando nuevas tecnologías para aprender e implementar, aprendo rápido, soy ordenado y muy responsable.<br />
-
-Comence en secundaria programando con Arduino, mi proyecto mas grande fue el de un auto controlado por bluetooth, luego automaticé el riego de mi jardín. Una vez terminada la secundaria, decidí comenzar la tecnicatura en programación en la UTN, donde obtuve una base solida de lo que era la programación en general. Por cuestiones personales me ví obligado a abandonar la carrera apenas finalizado el primer año. Por lo que decidí empezar el bootcamp de Henry, donde aprendi muchas tecnologías, algunas me enseñaron ellos, otras las aprendí por mi cuenta.<br />
-Gracias a todo esto puedo concretar dos proyectos, uno individual y otro grupal. Todavia me queda mucho por recorrer en este fantastico mundo, aun asi mis ganas de trabajar y de aprender son enormes y dia a dia voy aprendiendo e implementando lo aprendido.<br />
+¡Hola! Soy Edgardo Funes, un desarrollador FullStack especializado en Front-End, apasionado por la tecnología y siempre buscando aprender nuevas tecnologías para implementarlas en mis proyectos. Tengo experiencia en el manejo de lenguajes como Javascript, React, CSS, Tailwind, Material-UI, Bootstrap, entre otros. Siempre trato de ser ordenado y modular en el código que programo, y aplico buenas prácticas para cada tecnología. </br>
+Inicié mi camino en la programación en secundaria, programando con Arduino, y desde entonces no he dejado de aprender y crecer en este fascinante mundo. He estudiado en la UTN y he realizado el bootcamp de Henry, donde he aprendido a trabajar en equipo y a aportar ideas en distintos proyectos como Single Page Applications o E-commerce.</br>
+Además, poseo conocimientos en JAVA, C++ y Python. Me considero una persona responsable, que aprende rápido, se desafía constantemente y se complementa muy bien con el equipo de trabajo. ¡Estoy emocionado por seguir aprendiendo y creciendo en este apasionante mundo de la tecnología!
 
 
 
