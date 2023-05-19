@@ -22,6 +22,8 @@ Además, poseo conocimientos en JAVA, C++ y Python. Me considero una persona res
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
 
 **Client** <br />
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://es.react.dev)
 [![My Skills](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/es/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
@@ -30,12 +32,26 @@ Además, poseo conocimientos en JAVA, C++ y Python. Me considero una persona res
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
+[![My Skills](https://skillicons.dev/icons?i=emotion)](https://emotion.sh/docs/introduction)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com)
 
 **Server** <br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/es)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/es/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/es)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+
+**Otros** <br />
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com)
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/ar/products/photoshop.html)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 
 ## 🔗 Links
