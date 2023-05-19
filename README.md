@@ -16,13 +16,26 @@ Además, poseo conocimientos en JAVA, C++ y Python. Me considero una persona res
 ## 🔵 Tech Stack
 
 **Lenguajes**<br />
-[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/es/)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://es.wikipedia.org/wiki/C%2B%2B)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org)
 
 **Client** <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://es.react.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/es/)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://react-redux.js.org)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
 
 **Server** <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/es)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/es/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/es)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
 
 
 ## 🔗 Links
