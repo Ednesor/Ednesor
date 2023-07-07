@@ -2,7 +2,7 @@
 # Hola, Soy Edgardo Funes! 👋
 
 
-![Logo](./banner.gif)
+![Logo](./banner.png)
 
 
 ## 🚀 Sobre mi
